@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for https://github.com/git-Adi -->
 <h1 align="center">Hi 👋, I'm Aditya Arya</h1>
 <p align="center">
-  <em>Full-stack engineer • NLP & LLM tinkerer • OSS enthusiast</em>
+  <em>Data/ML engineer • NLP & LLM tinkerer • OSS enthusiast</em>
 </p>
 
 ---
@@ -36,8 +36,8 @@
 ---
 
 ## ✨ Featured Projects
-- **Diff Poetry Lock** – GitHub-bot that comments diff summaries for `poetry.lock` changes.
-- **MinIO × Flask Uploader** – Self-hosted object storage service on Apple Silicon.
+- **Agentic Travel Assistant** – Modifies or writes itinerary according to the user's preferences.
+- **Taxido** - UBER clone for cab booking.
 - **FinanceGPT** – Prompt-driven financial analytics engine with LangChain + Llama-3.
 
 ---
