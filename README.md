@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for https://github.com/git-Adi -->
 <h1 align="center">Hi 👋, I'm Aditya Arya</h1>
 <p align="center">
-  <em>Data/ML engineer • NLP & LLM tinkerer • OSS enthusiast</em>
+  <em>Data/AI engineer • NLP & LLM tinkerer • OSS enthusiast</em>
 </p>
 
 ---
